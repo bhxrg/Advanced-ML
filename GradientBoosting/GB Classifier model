@@ -1,0 +1,3 @@
+Gradient Boosting is an ensemble learning method that builds a strong predictive model by combining multiple weak learners.
+Unlike AdaBoost, it sequentially fits new models to correct errors made by the existing ensemble. 
+It uses gradient descent optimization to minimize the residuals,gradually improving the model's accuracy.
