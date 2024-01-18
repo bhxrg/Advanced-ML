@@ -1,0 +1,3 @@
+XGBoost, or Extreme Gradient Boosting, is an advanced implementation of gradient boosting. 
+It utilizes decision trees as base learners and optimizes a regularized objective function. 
+XGBoost incorporates parallel computing and tree pruning techniques to enhance efficiency and prevent overfitting,making it highly effective for various machine learning tasks.
