@@ -1,0 +1,3 @@
+Random Forest is an ensemble learning method that builds a collection of decision trees and combines their predictions to create a more accurate and stable model.
+It introduces randomness by using bootstrapped samples and randomly selecting subsets of features for each tree,
+aiming to reduce overfitting and enhance the model's predictive performance.
