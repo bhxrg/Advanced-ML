@@ -1,0 +1,2 @@
+ARIMA, which stands for AutoRegressive Integrated Moving Average, is a time series forecasting model that belongs to the family of autoregressive forecasting methods. 
+It combines autoregression (AR), differencing (I), and moving averages (MA) to create a flexible model capable of capturing and predicting the patterns within a time series.
