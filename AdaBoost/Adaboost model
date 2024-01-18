@@ -1,0 +1,3 @@
+AdaBoost(Adaptive Boosting) is an ensemble learning method that builds a strong classifier by sequentially combining weak classifiers. 
+It assigns weights to each instance in the training data, boosting the importance of misclassified instances in subsequent iterations. 
+This process continues until a strong and accurate model is achieved.
